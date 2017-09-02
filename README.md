@@ -1,2 +1,6 @@
 # hello-world
-learning how to use Github
+Hello everyone,
+
+Learning how to use GitHub here.
+
+I enjoy running, reading, and laughing.
